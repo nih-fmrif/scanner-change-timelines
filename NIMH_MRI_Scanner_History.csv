@@ -15,6 +15,6 @@ Date,Scanner Name,Vendor,Hardware Rev,Software Rev,Bay,Comment
 2017-01-30,FMRIF3TA,GE,MR-750,DV26.1_R01,B1D65K,
 2017-01-30,FMRIF3TB,GE,MR-750,DV26.1_R01,B1D67,
 2017-06-26,FMRIF3TB,GE,MR-750,DV26.0_EB,B1D67,Upgrade
-2017-09-11,FMRIF3TD,Siemens,Skyra,VE11C,B1D307,Planned Upgrade
-2017-11-13,FMRIF3TC,GE,MR-750,DV26_R02,B1D708,Planned Upgrade
+2017-09-11,FMRIF3TD,Siemens,Skyra,VE11C,B1D307,Upgrade software + host + reconstruction engine computers
+2017-11-13,FMRIF3TC,GE,MR-750,DV26_R01,B1D708,Upgrade software + host + reconstruction engine computers
 2017-09-06,FMRIF7T,Siemens,Investigational_Device,syngo MR B17,B1D710,Current software revision checked
