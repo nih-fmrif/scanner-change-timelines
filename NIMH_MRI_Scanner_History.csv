@@ -12,9 +12,10 @@ Date,Scanner Name,Vendor,Hardware Rev,Software Rev,Bay,Comment
 ,FMRIF7T,Siemens,,,B1D710,"MRIR upgrade, date unknown"
 2016-07-24,FMRIF3TA,GE,HDx,ESE 15M4,B1D65K,Shutdown
 2016-07-24,FMRIF3TB,GE,HDx,ESE 15M4,B1D67,Shutdown
-2017-01-30,FMRIF3TA,GE,MR-750,DV26.1_R01,B1D65K,
-2017-01-30,FMRIF3TB,GE,MR-750,DV26.1_R01,B1D67,
-2017-06-26,FMRIF3TB,GE,MR-750,DV26.0_EB,B1D67,Upgrade
+2017-01-30,FMRIF3TA,GE,MR-750,DV25.1_R01,B1D65K,
+2017-01-30,FMRIF3TB,GE,MR-750,DV25.1_R01,B1D67,
+2017-06-26,FMRIF3TB,GE,MR-750,DV26.0_EB,B1D67,Upgrade host PC
 2017-09-11,FMRIF3TD,Siemens,Skyra,VE11C,B1D307,Upgrade software + host + reconstruction engine computers
-2017-11-13,FMRIF3TC,GE,MR-750,DV26_R01,B1D708,Upgrade software + host + reconstruction engine computers
 2017-09-06,FMRIF7T,Siemens,Investigational_Device,syngo MR B17,B1D710,Current software revision checked
+2017-11-13,FMRIF3TC,GE,MR-750,DV26_R01,B1D708,Upgrade software + host + reconstruction engine computers
+2018-01-15,FMRIF3TB,GE,MR-750,DV26.0_R01,B1D67,Upgrade software only
