@@ -21,3 +21,4 @@ Date,Scanner Name,Vendor,Hardware Rev,Software Rev,Bay,Comment
 2018-01-15,FMRIF3TB,GE,MR-750,DV26.0_R01,B1D67,Upgrade software only
 2018-02-19,FMRIF3TA,GE,MR-750,DV26.0_R01,B1D65K,Upgrade host PC + scanner network can now stream data out at 10G
 2018-05-07,FMRIF3TC,GE,MR-750,DV26.0_R01,B1D708,Upgrade reconstruction engine computer to latest 10G-capable model
+2019-02-10,FMRIF3TB,GE,MR-750,DV26.0_R03,B1D67,Upgrade software only
