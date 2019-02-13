@@ -8,7 +8,7 @@ Date,Scanner Name,Vendor,Hardware Rev,Software Rev,Bay,Comment
 2010-11-05,FMRIF3TA,GE,HDx,ESE 14M5?,B1D65,Upgrade software to 15M4?
 2010-11-22,FMRIF1.5T,GE,HDx,ESE 14M5?,B1D307,Upgrade software to 15M4?
 2011-05-03,FMRIF1.5T,GE,HDx,ESE 15M4,B1D307,Shutdown
-2011-06-13,FMRIF3TC,GE,MR-750,DV22.0_V02,B1D708,System Upgrade, available for scanning
+2011-06-13,FMRIF3TC,GE,MR-750,DV22.0_V02,B1D708,System Upgrade - available for scanning
 2011-06-23,FMRIF3TC,GE,MR-750,DV22.0_V02,B1D708,System tweaks by GE to address cooling and performance issues
 2011-10-03,FMRIF3TD,Siemens,Skyra,VD11,B1D307,Installation complete - open to users in development with FMRIF to 2011-10-16
 2011,FMRIF7T,Siemens,Investigational_Device,MR B17,B1D710,Installed UHF Service Pack
