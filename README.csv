@@ -1,0 +1,31 @@
+Date,Scanner Name,Vendor,Hardware Rev,Software Rev,Bay,Comment
+1999,FMRIF3T1,GE,,,B1D65,First 3T installed in NMRF. Date Uncertain
+2001,FMRIF3T2,GE,,,B1D710,Second 3T installed in NMRF. Date uncertain
+2010-03-10,FMRIF3TCRADA,GE,HDx,ESE 15M4,B1D708,Begin transition to become 3TC
+2010-03-16,FMRIF3TC,GE,Long-bore HDx,ESE 15M4,B1D710,Shutdown
+2010-03-17,FMRIF3TCRADA,GE,HDx,ESE 15M4,B1D708,Complete transition to become 3TC - now referred to as 3TC
+2010-10-25,FMRIF3TB,GE,HDx,ESE 14M5?,B1D67,Upgrade software to 15M4?
+2010-11-05,FMRIF3TA,GE,HDx,ESE 14M5?,B1D65,Upgrade software to 15M4?
+2010-11-22,FMRIF1.5T,GE,HDx,ESE 14M5?,B1D307,Upgrade software to 15M4?
+2011-05-03,FMRIF1.5T,GE,HDx,ESE 15M4,B1D307,Shutdown
+2011-06-13,FMRIF3TC,GE,MR-750,DV22.0_V02,B1D708,System Upgrade - available for scanning
+2011-06-23,FMRIF3TC,GE,MR-750,DV22.0_V02,B1D708,System tweaks by GE to address cooling and performance issues
+2011-10-03,FMRIF3TD,Siemens,Skyra,VD11,B1D307,Installation complete - open to users in development with FMRIF to 2011-10-16
+2011,FMRIF7T,Siemens,Investigational_Device,MR B17,B1D710,Installed UHF Service Pack
+2014-02-19,FMRIF3TD,Siemens,Skyra,VD13A,B1D307,Upgrade software only
+2015-06-15,FMRIF7T,Siemens,Investigational_Device,syngo MR B17,B1D710,pTx installation start
+2015-06-26,FMRIF7T,Siemens,Investigational_Device,syngo MR B17,B1D710,pTx installation complete
+2015-12-23,FMRIF7T,Siemens,Investigational_Device,syngo MR B17,B1D710,upgrade reconstruction engine - MRIR
+2016-07-24,FMRIF3TA,GE,HDx,ESE 15M4,B1D65K,Shutdown
+2016-07-24,FMRIF3TB,GE,HDx,ESE 15M4,B1D67,Shutdown
+2017-01-30,FMRIF3TA,GE,MR-750,DV25.1_R01,B1D65K,Released to FMRIF users
+2017-01-30,FMRIF3TB,GE,MR-750,DV25.1_R01,B1D67,Released to FMRIF users
+2017-06-26,FMRIF3TB,GE,MR-750,DV26.0_EB,B1D67,Upgrade software and host PC
+2017-09-06,FMRIF7T,Siemens,Investigational_Device,syngo MR B17,B1D710,Current software revision checked
+2017-09-11,FMRIF3TD,Siemens,Skyra,VE11C,B1D307,Upgrade software + host + reconstruction engine computers
+2017-09-12,FMRIF7T,Siemens,Investigational_Device,syngo MR B17,B1D710,host upgrade from Siemens to HP Z420
+2017-11-13,FMRIF3TC,GE,MR-750,DV26.0_R01,B1D708,Upgrade software + host + reconstruction engine computers
+2018-01-15,FMRIF3TB,GE,MR-750,DV26.0_R01,B1D67,Upgrade software only
+2018-02-19,FMRIF3TA,GE,MR-750,DV26.0_R01,B1D65K,Upgrade host PC + scanner network can now stream data out at 10G
+2018-05-07,FMRIF3TC,GE,MR-750,DV26.0_R01,B1D708,Upgrade reconstruction engine computer to latest 10G-capable model
+2019-02-10,FMRIF3TB,GE,MR-750,DV26.0_R03,B1D67,Upgrade software only
