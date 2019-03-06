@@ -32,3 +32,4 @@ Date,Scanner Name,Vendor,Hardware Rev,Software Rev,Bay,Comment
 2019-02-10,FMRIF3TB,GE,MR-750,DV26.0_R03,B1D67,Upgrade software only
 2019-03-03,FMRIF3TA,GE,MR-750,DV26.0_R03,B1D65K,Upgrade software only
 2019-03-03,FMRIF3TC,GE,MR-750,DV26.0_R03,B1D708,Upgrade software only
+2019-03-04,FMRIF3TD,Siemens,Skyra,VE11C,B1D307,10G network card added to MARS but not configured
