@@ -35,4 +35,4 @@ Date,Scanner Name,Vendor,Hardware Rev,Software Rev,Bay,Comment
 2019-03-04,FMRIF3TD,Siemens,Skyra,VE11C,B1D307,10G network card added to MARS but not configured
 2019-03-04,FMRIF3TD,Siemens,Skyra,VE11C,B1D307,10G network card MARS configured and available to stream data out
 2019-04-15,FMRIF3TD,Siemens,Skyra,VE11C,B1D307,10G network switch removed and replaced by point-to-point 10G connection between MARS and external PC
-2019-10-24,FMRIF3TB,GE,MR-750,DV26.0_R01,B1D67,Completed modification of internal cooling loop to support local head gradient coil
+2019-10-24,FMRIF3TB,GE,MR-750,DV26.0_R03,B1D67,Completed modification of internal cooling loop to support local head gradient coil
