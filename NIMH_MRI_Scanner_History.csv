@@ -39,3 +39,4 @@ Date,Scanner Name,Vendor,Hardware Rev,Software Rev,Bay,Comment
 2020-02-07,FMRIF3TB,GE,MR-750,DV26.0_R03,B1D67,Completed installation of hardware and software to support local head gradient coil and loaner prototype on site
 2021-04-12,FMRIF7T,Siemens,Investigational_Device (Magnetom 7T),syngo MR B17,B1D710,shutdown of system to upgrade host + console software + reconstructor + portions of the RF chain (new/relocted DICOs and 32-channel box)
 2021-05-10,FMRIF7TA,Siemens,Magnetom 7T+,syngo MR VE12U_AP01,B1D710,restart of system with upgraded single transmit and parallel transmit host computers + all of previously listed changes + new AE Title
+2021-11-07,FMRIF3TC,GE,MR-750,DV26.0_R01,B1D708,Last day of scanner operation before decommissioning
