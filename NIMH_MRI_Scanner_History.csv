@@ -41,3 +41,4 @@ Date,Scanner Name,Vendor,Hardware Rev,Software Rev,Bay,Comment
 2021-05-10,FMRIF7TA,Siemens,Magnetom 7T+,syngo MR VE12U_AP01,B1D710,restart of system with upgraded single transmit and parallel transmit host computers + all of previously listed changes + new AE Title
 2021-11-07,FMRIF3TC,GE,MR-750,DV26.0_R03,B1D708,Last day of scanner operation before decommissioning
 2022-06-30,FMRIF7TA,Siemens,Magnetom 7T+,syngo MR VE12U_AP01,B1D710,Addition of USB 3.0 to ethernet adapter to MARS to allow data streaming out at 2+ Gb/s - since MARS has no open PCI-E slots for PCI-E ethernet adapaters
+2022-09-27,FMRIF7TB,Siemens,Magnetom Terra 7T,syngo MR VE12U_SP01,B1D708,New scanner opened to FMRIF users
