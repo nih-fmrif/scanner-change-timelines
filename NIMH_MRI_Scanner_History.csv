@@ -1,6 +1,8 @@
 Date,Scanner Name,Vendor,Hardware Rev,Software Rev,Bay,Comment
-1999,FMRIF3T1,GE,,,B1D65,First 3T installed in NMRF. Date Uncertain
-2001,FMRIF3T2,GE,,,B1D710,Second 3T installed in NMRF. Date uncertain
+1999-06,FMRIF3T1,GE,,,B1D65,First 3T installed in NMRF.
+2001-01,FMRIF3T1,GE,,,B1D65,Routine operations and scanning begin.
+2001-11,FMRIF3T2,GE,,,B1D710,Second 3T installed in NMRF.
+2002-08,FMRIF3T2,GE,,,B1D710,Routine operations and scanning begin.
 2010-03-10,FMRIF3TCRADA,GE,HDx,ESE 15M4,B1D708,Begin transition to become 3TC
 2010-03-16,FMRIF3TC,GE,Long-bore HDx,ESE 15M4,B1D710,Shutdown
 2010-03-17,FMRIF3TCRADA,GE,HDx,ESE 15M4,B1D708,Complete transition to become 3TC - now referred to as 3TC
